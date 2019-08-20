@@ -5,7 +5,7 @@
 
     <groupId>edu.hawaii.its</groupId>
     <artifactId>casdemo</artifactId>
-    <packaging>war</packaging>
+    <packaging>jar</packaging>
     <name>casdemo</name>
     <description>University of Hawaii CAS Demonstration App</description>
     <version>1.1</version>
